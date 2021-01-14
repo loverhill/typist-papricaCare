@@ -1,2 +1,0 @@
-# typist-papricaCare
-readme
